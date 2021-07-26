@@ -6,3 +6,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan We
 Berikut daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id][https://oo.or.id].
+* Teja Semadi, [github](https://github.com/tejasemadiDEV)
